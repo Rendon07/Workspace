@@ -1,0 +1,42 @@
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      
+    }
+
+    #header {
+      background-color: #eeb0f7;
+      padding: 20px;
+      text-align: center;
+    }
+
+    #header img {
+      height: 80px;
+    }
+
+    #main {
+      padding: 40px;
+      background-image: url('https://st2.depositphotos.com/4152539/6034/i/950/depositphotos_60346401-stock-illustration-group-of-stuffed-animals.jpg');
+      background-size: cover;
+      background-position: center;
+      min-height: 600px;
+      color: rgb(0, 0, 0);
+      text-shadow: 1px 1px 2px black;
+    }
+
+    #footer {
+      background-color: #eeb0f7;
+      padding: 20px;
+      text-align: center;
+    }
+
+    #footer a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 10px;
+      font-weight: bold;
+    }
+
+    #footer a:hover {
+      text-decoration: underline;
+    }

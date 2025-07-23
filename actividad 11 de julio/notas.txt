@@ -1,0 +1,62 @@
+11/07/2025
+ejercicio 1
+Construir un html sin css
+
+-Realizar un lista de 15 estudiantes usando una lista ordenada, agregar 3 notas por estudiantes. (el caracter | es util para separar notas)
+
+<ol>
+
+<il> fulanito de tal | 3 | 4 | 5| </il>
+<il> peranito perez| 3 | 4 | 5| </il>
+
+</ol>
+
+-Realizar esta misma lista en la parte de abajo, pero sin usar la etiqueta de listas ordenada.
+
+El objetivo del ejercicio es hacer que las 2 listas se vean identicas o muy parecidas; para mejorar habilidades de diseño.
+ 
+Ejercicio 2
+
+Construir un HTML y su respectivo CSS.
+
+Objetivo: Usar CSS anidado.
+
+Crear una lista de 11 contactos usando un div por cada contacto, dentro del div agregar un hl para el nombre, un link (etiqueta a) para el correo y un escoger a elección la etiqueta para el numero de telefono.
+crear 3 clases de CSS: contacto, titulo y div .titulo
+en contacto hacer personalizaciones deseadas, pero agregar
+display: inline-block;
+
+.titulo {
+
+	cambiar tipo de fuente
+	color de letra y color de fondo
+
+}
+
+div .titulo{ no cambiar tipo de fuente, escoger colores diferentes }
+
+Preguntas
+¿Que color se aplica al titulo y cual a los nombres?
+Al titulo se aplica el color de la clase .titulo y a los nombres el color de la clase div .titulo.
+¿Cambia el tipo de letra en los nombres de contacto?
+si
+
+
+Consulta
+¿Que es diseño responsivo?
+Es cuando una página web se adapta sola al tamaño de la pantalla, ya sea celular, tablet o computador.
+¿Que es un grid en diseño responsivo?
+Es una cuadrícula que ayuda a organizar los elementos de la página en filas y columnas, para que se vean bien en cualquier pantalla.
+¿Que dispositovos se deben de tener en cuenta en diseño responsivo?
+Celulares
+Tablets
+Computadores
+Pantallas grandes (como televisores)
+¿Aplica el diseño responsivo según en navegador?
+No depende tanto del navegador, sino del tamaño de la pantalla.
+Pero algunos navegadores antiguos pueden no mostrarlo bien.
+¿Que es flexBox en diseño responsivo?
+Es una forma fácil de acomodar elementos en una página.
+Hace que los elementos se ajusten al espacio disponible automáticamente.
+
+

@@ -1,0 +1,27 @@
+ body {
+     
+      background: linear-gradient(#9d5cd3, #78afe2, #b15574) ;
+      text-align: center;
+     
+      
+    }
+
+    .mes {
+      display: inline-block;
+      width: 25%;
+      height: 100px;
+      margin: 1%;
+     
+    }
+
+    .estilo1 {
+      background-color: #9066a3;
+      color: #fffbfb;
+    }
+
+    .estilo2 {
+      background-color: #54869c;
+      color: #000;
+    }
+
+   

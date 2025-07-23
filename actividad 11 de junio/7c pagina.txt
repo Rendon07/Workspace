@@ -1,0 +1,7 @@
+<html>
+
+
+<title> pagina web 7c  </title>
+
+<head>  <u>  <center>  <h1> BIENVENIDOS A MI PAGINA WEB </head>
+</u>  </center>  </h1>

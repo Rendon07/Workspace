@@ -1,0 +1,39 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+
+h1 {
+  font-size: 36px;
+  color: #26629e;
+}
+
+h2 {
+  font-size: 24px;
+  color: #2668aa;
+  margin-top: 30px;
+}
+
+
+#objetivo {
+  display: block;
+  background-color: #7db4da;
+  padding: 20px;
+  margin: 20px 0;
+  border-left: 6px solid #2199d4;
+  font-size: 18px;
+}
+
+
+.casi {
+  display: inline-block;
+  background-color: #6094cf;
+  border: 1px solid #72a0d8;
+  padding: 15px;
+  margin: 10px;
+  width: 250px;
+  vertical-align: top;
+  font-size: 16px;
+}

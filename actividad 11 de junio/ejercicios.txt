@@ -1,0 +1,27 @@
+11/06/2025
+Ejercicio 1
+Construir un html y su respetiva hoja de estilos,dentro de cada div agregar texto
+-Crear un div, agregar un id y con css modificar el color y el tamaño del margin 
+-Crear un div agregar id y con css modificar el color y el tamaño del padding.
+-Crear un div agregar id y con css modificar el color y el tamaño del border.
+-Crear un div agregar un id y con ese modificar el color y amaño de padding 
+border style:solid
+crear un div agregar un id y con css modificar el color y tamaño del border
+border-style dotted
+
+Ejercicio 2
+Construir un html y su respetiva hoja de estilos
+-Crear una tabla 3x3 con un sentimiento en cada celda, asignar un id con el nombre del sentimiento
+-Para los sentimientos hacer un border solid 
+-Asignar color de fondo en base al sentimiento 
+-Asignar un color de border que contraste dependiendo del sentimiento cambiar el padding y margin, hacerlo diferente para cada lado
+
+Ejercicio 3
+Construir  un html con su respectiva hoja de estilos
+
+Explicar reglas de un deporte 
+H1 con el titulo del deporte 
+H2 sistema de puntos 
+Incluir un div con el objetivo principal para ganar este div debe ir en bloque y márgenes acordé 
+H2 reglas básicas 
+3 div con la misma clase casi , dónde se expliquen 1 regla por div , agregar márgenes acordé estos divs que deben ir online
