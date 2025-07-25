@@ -1,0 +1,11 @@
+25/07/2025
+Ejercicio 1
+Escogemos una página que nos guste 
+Revisamos como se hace la distribucion de elementos
+Copiamos la parte del CSS donde se crea esta distribucion y la guardamos en el documento 
+Escogemos 6 clases de CSS que nos hayan gustado para usrlas en el futuro
+
+Ejercicio 2 
+Suscribirse a figma.com
+Diseñaren figma un reproductor de video para celular ( debe de estar horizontal)
+Exportar el proyecto y subirlo a github
