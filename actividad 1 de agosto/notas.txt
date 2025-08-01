@@ -1,0 +1,4 @@
+Ejercicio
+
+Escoger un componente para el footer
+Realizar el footer y agregar informacion
