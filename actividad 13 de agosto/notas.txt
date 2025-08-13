@@ -1,0 +1,10 @@
+Ejercicio 1
+Con bootstrap
+-Por persona diseñar el hme de la aplicacion PPI, siguiendo los colores del manuel corporativo
+-Debe incluir:
+	Menu, carrucel con imagenes de promocion del aplicativo
+	Integrantes del equipo
+	footer con informacion del proyecto 
+
+Ejercicio 2
+Crear esqueleto de la aplicacion, remover carrucel e integrantes del ejercicio 1 y solo dejar menu y footer para proximas paginas
