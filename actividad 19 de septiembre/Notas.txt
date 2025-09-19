@@ -1,0 +1,8 @@
+Ejercicio 1
+Imprimir los numeros pares del 2 al 100 en el html, separados por un hr entre cada uno.
+
+Ejercicio 1.1 
+Como no usar un if en el ejercicio 1
+
+Ejercicio 2
+Construir un html con 3 botones. uno que muestre tu nombre, otro que muestre 10 numeros y el ultimo cambia el color del fondo.
